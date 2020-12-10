@@ -1,0 +1,9 @@
+
+
+1. create 4 components with the name of Home, About, Contact,ProductDetails
+
+2.in productDetailscomponent,
+ create productclass which contains folowing properties
+Pid,name,price
+
+create an listproducts with hardcoded value and show all product in productdetails.html
